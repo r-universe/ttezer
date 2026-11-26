@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/ttezer/ttezer.r-universe.dev
 	branch = HEAD
+[submodule "gtfsanalyzer"]
+	path = gtfsanalyzer
+	url = https://github.com/ttezer/gtfs-analyzer
+	subdir = r
